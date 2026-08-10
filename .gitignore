@@ -1,2 +1,21 @@
-.vscode
+# Ignore build outputs
 *.exe
+*.out
+*.o
+
+# Ignore debug and temp files
+*.log
+*.tmp
+*.bak
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+
+tempCodeRunnerFile.*
+
+
+day5/
+
+
